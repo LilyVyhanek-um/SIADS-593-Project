@@ -1,5 +1,5 @@
 # SIADS-593-Project
-Nurse Staffing Levels and Hospital Quality: Linking Workforce Capacity to Patient Outcomes and Experience
+Hospital Staffing Levels and Hospital Quality: Linking Workforce Capacity to Patient Outcomes and Experience
 Project Overview
 Examining whether hospital staffing levels are associated with quality outcomes (mortality, readmissions, safety). Combines CMS cost report data with hospital quality ratings and BLS workforce data.
 
